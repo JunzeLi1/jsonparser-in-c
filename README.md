@@ -88,5 +88,3 @@ Testing Functions:Testing Functions: The test_json.c file contains all the test 
 ```
 In summary, this JSON Parser provides an efficient and reliable method for parsing JSON data using C. Its advanced features like BST storage, comprehensive type
 handling, and robust memory management make it a strong tool for any application involving JSON data processing.
-
-
